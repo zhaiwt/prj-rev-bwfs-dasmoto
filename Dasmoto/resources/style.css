@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica;
+
+}
+
+.dasmoto {
+  background-image: url("pattern.jpeg");
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+p span {
+  font-weight: bold;
+  color: blue;
+}
